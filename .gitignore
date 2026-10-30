@@ -2,4 +2,4 @@ venv
 .env
 pycache/*
 token.json
-./tools/google_support/credentials.json
+tools/google_support/credential.json

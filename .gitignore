@@ -1,0 +1,5 @@
+venv
+.env
+pycache/*
+token.json
+./tools/google_support/credentials.json
